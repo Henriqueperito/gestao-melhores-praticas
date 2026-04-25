@@ -15,7 +15,7 @@ Adição da Estrutura 5W2H (Operacionalização).
 
 Para que a etapa "P - Plan" do PDCA seja eficaz, ela deve ser detalhada através da matriz 5W2H, que responde às perguntas cruciais para a execução:
 
-Elemento + Definição 
+# Elemento + Definição 
 
 1. What (O quê): A ação ou meta a ser alcançada.
 2. Why (Por que): A justificativa da ação.
